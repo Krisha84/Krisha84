@@ -12,7 +12,7 @@
 - 🎨 Interested in building **full-stack applications and scalable systems**
 
 ---
-
+<!--
 ## 🛠️ Tech Stack
 **Languages:**  
 `Java` | `C` | `Python` | `C#` | `JavaScript` | `SQL`
@@ -26,7 +26,29 @@
 
 **Tools & Platforms:**  
 - Git & GitHub, Postman, Jupyter Notebook, Visual Studio, VS Code
+-->
+## 🛠️ Tech Stack
 
+**🌐 Languages:**  
+☕ Java | 🔵 C | 🐍 Python | #️⃣ C# | ⚡ JavaScript | 🗃️ SQL
+
+**🧩 Frameworks & Libraries:**  
+- 🟣 ASP.NET Core
+- ⚛️ React.js
+- 🟩 Node.js
+- 🟦 Express.js
+- 🌐 HTML5, 🎨 CSS3, 🎀 Bootstrap, 🌬️ Tailwind CSS
+
+**🗄️ Databases:**  
+🍃 MongoDB | 🐬 MySQL | 🗃️ SQL Server
+
+**🔧 Tools & Platforms:**  
+- 🐙 Git & GitHub
+- 📭 Postman
+- 📓 Jupyter Notebook
+- 🖥️ Visual Studio
+- 📝 VS Code
+- 
 ---
 
 ## 🚀 Projects
