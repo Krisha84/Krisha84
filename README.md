@@ -30,7 +30,7 @@
 ---
 
 ## 🚀 Projects
-- 🧩 [MERN Stack Project - BookHaven](https://github.com/Krisha84/MERN-Stack-Project)
+- 🧩 [MERN Stack Project - BookHaven](https://github.com/Krisha84/BookHaven-MERN)
 - 🎯 [Quiz Management System](https://github.com/Krisha84/Quiz-Management-System)
 - 🌐 [ASP.NET Core APIs](https://github.com/Krisha84/ASP.NET-Core)
 - 📚 [Data Structures in Java](https://github.com/Krisha84/Data-Structure)
