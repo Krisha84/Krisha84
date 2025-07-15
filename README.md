@@ -30,50 +30,35 @@
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
+- ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png) **Java**
+- ![C](https://img.icons8.com/color/24/000000/c-programming.png) **C**
+- ![Python](https://img.icons8.com/color/24/000000/python.png) **Python**
+- ![C#](https://img.icons8.com/color/24/000000/c-sharp-logo.png) **C#**
+- ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png) **JavaScript**
+- ![SQL](https://img.icons8.com/color/24/000000/sql.png) **SQL**
 
 ### 🚀 Frameworks & Libraries
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
+- ![ASP.NET](https://img.icons8.com/color/24/000000/asp.png) **ASP.NET Core**
+- ![React](https://img.icons8.com/color/24/000000/react-native.png) **React**
+- ![Node.js](https://img.icons8.com/color/24/000000/nodejs.png) **Node.js**
+- ![Express.js](https://img.icons8.com/ios-filled/24/000000/express-js.png) **Express.js**
+- ![HTML5](https://img.icons8.com/color/24/000000/html-5.png) **HTML5**
+- ![CSS3](https://img.icons8.com/color/24/000000/css3.png) **CSS3**
+- ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png) **Bootstrap**
+- ![Tailwind CSS](https://img.icons8.com/color/24/000000/tailwindcss.png) **Tailwind CSS**
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
----
+- ![MongoDB](https://img.icons8.com/color/24/000000/mongodb.png) **MongoDB**
+- ![MySQL](https://img.icons8.com/ios-filled/24/000000/mysql-logo.png) **MySQL**
+- ![SQL Server](https://img.icons8.com/color/24/000000/microsoft-sql-server.png) **SQL Server**
 
 ### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Projects
-- 🧩 [MERN Stack Project - BookHaven](https://github.com/Krisha84/BookHaven-MERN)
-- 🎯 [Quiz Management System](https://github.com/Krisha84/Quiz-Management-System)
-- 🌐 [ASP.NET Core APIs](https://github.com/Krisha84/ASP.NET-Core)
-- 📚 [Data Structures in Java](https://github.com/Krisha84/Data-Structure)
-- 🚀 [Coding-Challenges-100 (Java, C, Python)](https://github.com/Krisha84/Coding-Challenges-100)
+- ![Git](https://img.icons8.com/color/24/000000/git.png) **Git**
+- ![GitHub](https://img.icons8.com/ios-glyphs/24/ffffff/github.png) **GitHub**
+- ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png) **Postman**
+- ![Jupyter](https://img.icons8.com/ios-filled/24/000000/jupyter.png) **Jupyter Notebook**
+- ![Visual Studio](https://img.icons8.com/color/24/000000/visual-studio.png) **Visual Studio**
+- ![VS Code](https://img.icons8.com/color/24/000000/visual-studio-code-2019.png) **VS Code**
 
 ---
 
