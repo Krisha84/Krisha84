@@ -41,7 +41,7 @@
 - ![ASP.NET](https://img.icons8.com/color/24/000000/asp.png) **ASP.NET Core**
 - ![React](https://img.icons8.com/color/24/000000/react-native.png) **React**
 - ![Node.js](https://img.icons8.com/color/24/000000/nodejs.png) **Node.js**
-- ![Express.js](https://img.icons8.com/ios-filled/24/000000/express-js.png) **Express.js**
+- ![Express.js](https://img.icons8.com/ios/24/000000/express-js.png) **Express.js**
 - ![HTML5](https://img.icons8.com/color/24/000000/html-5.png) **HTML5**
 - ![CSS3](https://img.icons8.com/color/24/000000/css3.png) **CSS3**
 - ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png) **Bootstrap**
